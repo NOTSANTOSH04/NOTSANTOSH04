@@ -1,78 +1,118 @@
-# 👋 Hey there — I'm Santhosh S
+# 👋 Hi — I’m **Santhosh S**
 
-> AI tinkerer • ML & Deep Learning enthusiast • Building things that (try to) think
+> AI tinkerer · ML & Deep Learning enthusiast · Builder of playful hardware + software prototypes
 
-📍 Bengaluru, Karnataka • 📧 santosh.s04088@gmail.com • 📞 8971324505  
-[LinkedIn](https://linkedin.com/in/-santhoshs-) • [GitHub](https://github.com/NOTSANTOSH04)
-
----
-
-## 🔭 About Me
-I’m a Computer Science & AI undergrad at **Amrita School of Engineering** (CGPA: 7.9) with a passion for building ML systems and creative hardware projects. I love turning data and sensors into intelligible, usable systems — whether that’s a model that learns pronunciation or an IoT shoe that knows when you’re walking too hard. I enjoy hackathons, learning new frameworks, and creating practical solutions to curious problems.
+📍 Bengaluru, India • ✉️ [santosh.s04088@gmail.com](mailto:santosh.s04088@gmail.com) • ☎️ 8971324505
 
 ---
 
-## 🛠️ Technical Skills
+### 🔗 Quick links
 
-**Languages:** C · Java · Python · SQL  
-**Frameworks & Tools:** TensorFlow · scikit-learn · Pandas · NumPy · Arduino · AWS · Git  
-**Areas:** Machine Learning · Deep Learning · Data Science · Database Management · AI · IoT
+* GitHub: [https://github.com/NOTSANTOSH04](https://github.com/NOTSANTOSH04)
+* LinkedIn: [https://linkedin.com/in/-santhoshs-](https://linkedin.com/in/-santhoshs-)
+
+---
+
+## 📚 Table of contents
+
+1. [About Me](#about-me)
+2. [Skills & Tools](#skills--tools)
+3. [Selected Projects](#selected-projects)
+4. [Publications & Research](#publications--research)
+5. [Education & Experience](#education--experience)
+6. [Certifications & Achievements](#certifications--achievements)
+7. [How I Work](#how-i-work)
+8. [Contact](#contact)
+
+---
+
+## 💡 About Me
+
+I’m a B.Tech student in **Computer Science & AI** at *Amrita School of Engineering* with a knack for building end-to-end systems — from sensor data to deployed models. I enjoy fast prototyping (hackathons), tinkering with embedded systems (ESP32, Arduino), and applying deep learning to real-world problems like pronunciation assistance and simulated autonomous systems.
+
+I like small, elegant solutions that solve everyday problems — and I caffeinate generously while doing it ☕.
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages:** Python · C · Java · SQL
+
+**Machine Learning & Data:** TensorFlow · Keras · scikit-learn · Pandas · NumPy · Computer Vision
+
+**Embedded & IoT:** ESP32 · Arduino · Sensors · Blynk IoT
+
+**Cloud & Dev:** AWS · Git · Docker (familiar)
+
+**Other:** Docker · Linux · VS Code
 
 ---
 
 ## 🚀 Selected Projects
 
-### Self-Driving Car (Simulated)
-**Tech:** Webots, DCNN (Keras), Computer Vision  
-Simulated a self-driving car using convolutional networks and CV techniques — trained perception systems to navigate realistic environments.
+> A few highlights — copy the markdown and drop direct links to repos when ready.
 
-### IoT Smart Shoe (ESP32)
-**Tech:** ESP32 · Accelerometer · Blynk IoT Cloud  
-Built a smart shoe prototype: interfaced force sensors with ESP32 and streamed data to Blynk for visualization and analytics.
+### 1. Self-Driving Car (Simulated)
+
+**What:** Simulated autonomous driving agent using convolutional neural networks and computer vision.
+**Tech:** Webots · Keras · OpenCV · DCNN
+**Impact:** Trained perception and control models for lane following and obstacle awareness.
+
+### 2. IoT Smart Shoe (ESP32)
+
+**What:** Smart shoe prototype that streams accelerometer/force-sensor data to the cloud for analytics and alerts.
+**Tech:** ESP32 · Accelerometer · Blynk · Firmware prototyping
+**Why:** Demonstrates embedded data collection → cloud visualization → simple analytics pipeline.
+
+### 3. Pronunciation & Language Learning (Real-time)
+
+**What:** Deep learning-based assistance tool to provide real-time feedback for pronunciation practice.
+**Tech:** Audio processing · Deep Learning · Real-time inference
+**Status:** Published at ICECCC 2025 (co-authored).
 
 ---
 
-## 📝 Publications
-- **REAL-TIME PRONUNCIATION AND LANGUAGE LEARNING ASSISTANCE USING DEEP LEARNING** — ICECCC 2025 (Co-authors: Harish, Monesh, Joshith; Advisor: Dr. Suja P)  
-- **Blockchain-Based Secure Voting System: A Transparent and Tamper-Proof Approach** — ICRDICCT 2025 (Co-authors: Harish, Monesh, Joshith; Gayathri R)
+## 📖 Publications & Research
+
+* **REAL-TIME PRONUNCIATION AND LANGUAGE LEARNING ASSISTANCE USING DEEP LEARNING** — ICECCC 2025.
+* **Blockchain-Based Secure Voting System: A Transparent and Tamper-Proof Approach** — ICRDICCT 2025.
+
+(Links to papers / preprints can be added here.)
 
 ---
 
 ## 🎓 Education
-**B.Tech — Computer Science & Engineering (AI)**  
+
+**B.Tech — Computer Science & Engineering (AI)**
 Amrita School of Engineering, Bengaluru — *2022 – Present* (CGPA: 7.9)
 
-**2nd PUC** — Narayana PU College — *2020 – 2022* (84%)  
-**10th Standard** — New Baldwin International School — *2017 – 2020* (74%)
+**Pre-University (PUC)** — Narayana PU College — *2020 – 2022* (84%)
+
+**High School (10th)** — New Baldwin International School — *2017 – 2020* (74%)
 
 ---
 
 ## 🏅 Certifications & Achievements
-- *The Complete MySQL Bootcamp: Go from Beginner to Expert* — July 2025  
-- *AWS Academy Introduction to Cloud* — November 2024 (AWS Academy Graduate)  
-- Built a VR gaming world in a hands-on workshop and recognized for innovative project ideas at Amrita.
+
+* The Complete MySQL Bootcamp — July 2025
+* AWS Academy: Introduction to Cloud — November 2024
+* Multiple hackathons, workshops, and hands-on VR/embedded sessions
 
 ---
 
-## 🧩 Extra-curriculars
-Participated in multiple hackathons and coding competitions — love rapid prototyping and teamwork!
+## 🧭 How I Work
+
+* I prefer **end-to-end** projects: data collection → model → deployment/embedding.
+* Rapid prototyping mindset (MVP first, polish later).
+* Open to internships, research collaborations, and product-focused side projects.
 
 ---
 
-## 🔭 How I Work / What I’m Looking For
-- I love end-to-end projects: data collection → model → deploy / embed.  
-- I enjoy working on ML model pipelines, embedded-AI, and anything that mixes hardware + software.  
-- Open to internships, research collaborations, and interesting side projects.
+## ✉️ Contact
 
----
-
-## ✨ Fun Facts
-- I’m a coffee-fueled coder who can't resist a tricky dataset.  
-- I enjoy making small things that solve small problems — smart toggles, motion-triggered helpers, and playful prototypes.
-
----
-
-## 📫 Wanna chat?
-Shoot me an email at **santosh.s04088@gmail.com** or ping me on LinkedIn. I’m always up for ideas, collabs, or coffee + code.
+**Email:** [santosh.s04088@gmail.com](mailto:santosh.s04088@gmail.com)
+**Phone:** +91 89713 24505
+**LinkedIn:** [https://linkedin.com/in/-santhoshs-](https://linkedin.com/in/-santhoshs-)
+**GitHub:** [https://github.com/NOTSANTOSH04](https://github.com/NOTSANTOSH04)
 
 ---
