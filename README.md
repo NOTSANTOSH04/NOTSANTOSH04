@@ -1,7 +1,7 @@
 
 <img width="1200" height="480" alt="Dark Sci-Fi Gaming Twitch Banner" src="https://github.com/user-attachments/assets/b5d73eb9-3baa-4904-b7a5-53741cdb081c" />
 
-# 👋 Hi — I’m **Santhosh S**
+# 👋 Hi
 
 > AI tinkerer · ML & Deep Learning enthusiast · Builder of playful hardware + software prototypes
 
