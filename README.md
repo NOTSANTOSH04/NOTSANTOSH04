@@ -76,5 +76,3 @@ Participated in multiple hackathons and coding competitions — love rapid proto
 Shoot me an email at **santosh.s04088@gmail.com** or ping me on LinkedIn. I’m always up for ideas, collabs, or coffee + code.
 
 ---
-
-> *If you'd like, I can create a shorter "profile" version, add GitHub stats badges, or tailor the tone (formal / playful / academic).*
