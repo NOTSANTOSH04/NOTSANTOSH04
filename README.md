@@ -77,13 +77,11 @@ My areas of work and learning include **developer infrastructure, CI/CD pipeline
   <img src="https://streak-stats.demolab.com?user=NOTSANTOSH04&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </div>
 
-### 🐍 Contribution animation
+### 🐍 Contribution animation — coming soon
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NOTSANTOSH04/NOTSANTOSH04/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake (appears after the workflow runs)" width="100%" />
-</div>
+> 🟣 **Preparing the contribution snake!** The GitHub Actions workflow is included in this draft. Once this PR is merged and the workflow generates the SVGs on the `output` branch, the animated contribution grid can be enabled here.
 
-<sub>The snake animation requires the GitHub Actions workflow and the generated output branch; it will not display until that workflow runs successfully after merge. External stat images also depend on third-party service availability.</sub>
+<sub>Preview-safe: no broken image while reviewing this PR. The workflow will run on `main` after merge, but the snake image still needs to be added back to this README once generation succeeds. External stats widgets depend on third-party availability.</sub>
 
 <img src="./assets/section-divider.svg" width="100%" alt="" />
 
